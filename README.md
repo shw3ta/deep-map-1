@@ -1,2 +1,1 @@
-# deep-map-1
-Project 1 for Fuzzy Cartographies. Maps out parts 1-3 of The Left/Right Game (from r/nosleep). 
+This page was built for a digital humanities course - Fuzzy Cartographies. It is an attempt to deep map the 10 part story _Have you heard of the Left/Right game?_ on r/nosleep. 
